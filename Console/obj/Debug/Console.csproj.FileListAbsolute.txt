@@ -1,0 +1,10 @@
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\bin\Debug\Console.exe.config
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\bin\Debug\Console.exe
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\bin\Debug\Console.pdb
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\bin\Debug\Biblioteca.dll
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\bin\Debug\Biblioteca.pdb
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\obj\Debug\Console.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\obj\Debug\Console.csproj.Up2Date
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\obj\Debug\Console.exe
+C:\Users\felip\Desktop\Dotnet\Checkpointhahaha\Console\obj\Debug\Console.pdb
